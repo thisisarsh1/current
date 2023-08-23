@@ -3,7 +3,6 @@
     justify-content: center;
     text-align: center;
     flex-wrap: wrap;
-    ;
     
 }
 .line2{text-align: center;
@@ -22,20 +21,20 @@ body {
     height: 200px;
     width: 200px;
     border-radius: 20%;
-     margin: 25px;
+     margin: 15px;
      border: 5px black solid;
     }
 #blue{background-color: blue;
     height: 200px;
     width: 200px;
-    margin: 25px;
+    margin: 15px;
     border-radius: 20%;
     border: 5px black solid;
 }
 #green{background-color: green;
     height: 200px;
     width: 200px;
-    margin: 25px;
+    margin: 15px;
     border-radius: 20%;
     border: 5px black solid;
 
@@ -43,8 +42,11 @@ body {
 #yellow{background-color: yellow;
     height: 200px;
     width: 200px;
-    margin: 25px;
+    margin: 15px;
     border-radius: 20%;
     border: 5px black solid;
 
+}
+.flash{
+    background-color: white;
 }
