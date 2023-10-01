@@ -236,13 +236,13 @@ a {
 
 :root {
   --primary-light: #888888;
-  --primary: #ffffff;
-  --primary-dark: #ffffff;
-  --white: rgb(248, 248, 248);
-  --greyLight-1: rgb(252, 252, 252);
-  --greyLight-2: rgb(255, 255, 255);
+  --primary: rgb(255, 250, 250);
+  --primary-dark: #ff0f0f;
+  --white: rgba(182, 255, 254, 0.752);
+  --greyLight-1: rgb(81, 81, 81);
+  --greyLight-2: rgb(51, 51, 51);
   --greyLight-3: #bec8e4;
-  --greyDark: #a0a0a0;
+  --greyDark: #696969;
 }
 
 *, *::before, *::after {
